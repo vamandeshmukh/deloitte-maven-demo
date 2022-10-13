@@ -12,7 +12,7 @@ import javax.persistence.Persistence;
 //INSERT - persist();
 //UPDATE - merge();
 //DELETE - remove();
-
+ 
 public class InsertDemo {
 
 	public static void main(String[] args) {
