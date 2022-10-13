@@ -19,6 +19,12 @@ public class Employee {
 		super();
 	}
 
+	public Employee(String firstName, double salary) {
+		super();
+		this.firstName = firstName;
+		this.salary = salary;
+	}
+
 	public Employee(int eid, String firstName, double salary) {
 		super();
 		this.eid = eid;
