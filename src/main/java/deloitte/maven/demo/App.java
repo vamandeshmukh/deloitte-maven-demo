@@ -1,9 +1,11 @@
 package deloitte.maven.demo;
 
 /**
- * Hello world!
+ * 
+ * @author Vaman Deshmukh 
  *
  */
+
 public class App {
 
 	public static void main(String[] args) {
